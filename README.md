@@ -17,3 +17,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=petrov-andrey-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--[![codewars](https://www.codewars.com/users/petrov-andrey-dev/badges/large)](https://www.codewars.com/users/petrov-andrey-dev)-->
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=petrov-andrey-dev)](https://github.com/anuraghazra/github-readme-stats)-->
+
+## 📬 Контакты  
+- **Email**: petrov.a.v-14@yandex.ru  
+- **Telegram**: [@username](https://t.me/petr_and_v)  
